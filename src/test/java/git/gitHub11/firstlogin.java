@@ -6,10 +6,13 @@ public class firstlogin {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome Java");
-		public void add()
-		{
-		}
+		add();
 
+	}
+	
+	 static void add()
+	{
+		System.out.println("Add method");
 	}
 
 }
